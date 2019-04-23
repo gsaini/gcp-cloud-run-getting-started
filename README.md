@@ -1,10 +1,6 @@
 # gcp-cloud-run-getting-started
 Cloud Run(beta)
 
-gcloud builds submit --tag gcr.io/gcp-cloud-run-getting-started/helloworld
-
-gcloud beta run deploy --image gcr.io/gcp-cloud-run-getting-started/helloworld
-
 
 ## Steps - 
     1. Submit the project build - `gcloud builds submit --tag gcr.io/[PROJECT-ID]/helloworld`
