@@ -6,7 +6,7 @@ Cloud Run(beta)
 
 ## Quickstart: Deploy to Cloud Run on GKE
 
-======================================================================================================
+================================================================================
 
 ### Steps -
 
@@ -58,4 +58,4 @@ Invoke CURL:
 
 Replace [YOUR-IP] with the IP address you obtained in the previous step, and if you used a service name other than helloworld you'll need to replace that as well.
 
-======================================================================================================
+=================================================================================
